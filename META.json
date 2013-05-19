@@ -61,7 +61,8 @@
       },
       "homepage" : "https://github.com/higemaru/p5-www-appstore-scraper-lite",
       "repository" : {
-         "url" : "https://github.com/higemaru/p5-www-appstore-scraper-lite.git",
+         "type" : "git",
+         "url" : "git://github.com/higemaru/p5-www-appstore-scraper-lite.git",
          "web" : "https://github.com/higemaru/p5-www-appstore-scraper-lite"
       }
    },
